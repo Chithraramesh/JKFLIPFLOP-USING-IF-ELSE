@@ -74,7 +74,8 @@ endmodule
 RTL LOGIC FOR FLIPFLOPS:<img width="919" height="388" alt="Screenshot 2026-05-29 200012" src="https://github.com/user-attachments/assets/23942f60-cb17-4b24-87b9-dc796af180ff" />
 
 
-TIMING DIGRAMS FOR FLIP FLOPS:<img width="1270" height="654" alt="Screenshot 2026-05-29 200026" src="https://github.com/user-attachments/assets/4507b5b2-bb22-493b-9d32-5ebdcf77f4df" />
+TIMING DIGRAMS FOR FLIP FLOPS:<img width="1268" height="715" alt="image" src="https://github.com/user-attachments/assets/d19105eb-9b50-4327-a101-edde60342777" />
+
 
 
 RESULTS:Thus the Serial-in and Serial-out Register is designed and is verified using Quartus software
